@@ -1,0 +1,14 @@
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Resources.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.GenerateResource.cache
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Form2.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Form3.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Form4.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form.resources
+C:\Users\leohs\source\repos\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Properties.Form1.resources
